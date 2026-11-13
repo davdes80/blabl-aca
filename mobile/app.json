@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Covoit Collègues",
+    "slug": "covoit-collegues",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "covoitcollegues",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2563eb",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.covoitcollegues.app"
+    },
+    "android": {
+      "package": "com.covoitcollegues.app"
+    },
+    "extra": {
+      "apiUrl": "http://localhost:3000"
+    }
+  }
+}
